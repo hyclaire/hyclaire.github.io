@@ -1,9 +1,45 @@
+<!-- The browser opens HTML file and the HTML file brings the CSS and JS (HTML is glue)-->
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8 />
+    <meta http-equiv=" X-UA-Compatible" content="IE-edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css">
+    <title>Momentum</title>
+</head>
 
 <body>
-    <h1>Hello World</h1>
-    <p>I'm hosted with GitHub Pages.</p>
+    <h2 id="clock">00:00:00</h2>
+    <div id="weather">
+        <span></span>
+        <span></span>
+    </div>
+    <div id="quote">
+        <span></span>
+        <span></span>
+    </div>
+
+    <form class="hidden" id="login-form">
+        <input required maxlength="15" type="text" placeholder="What is your name" />
+        <input type="submit" value="Log In" />
+    </form>
+
+    <h1 id="greeting" class="hidden"></h1>
+    <a class="hidden" href="https://nomadcoders.co">Go to courses</a>
+
+    <form id="todo-form">
+        <input id="todo-form-text" type="text" placeholder="Write a To Do and Press Enter" required />
+    </form>
+    <ul id="todo-list"></ul>
+
+    <script src="js/app.js"></script>
+    <script src="js/quotes.js"></script>
+    <script src="js/background.js"></script>
+    <script src="js/todo.js"></script>
+    <script src="js/weather.js"></script>
+    <script src="js/clock.js"></script>
 </body>
 
 </html>
