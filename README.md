@@ -9,6 +9,6 @@ The functions made from the project are listed below.
 4. Create/Delete To-Do List with Local Storage (todo.js)
 5. Set random background image (background.js)
 6. Print the weather/ location information with GeoLocation (weather.js)
-7. Print the random quote (quotes.js)
+7. Print a random quote (quotes.js)
 
 Thank you.
