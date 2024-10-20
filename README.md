@@ -1,6 +1,4 @@
-
-![Uploading Screenshot 2024-10-19 at 16.10.35.png…]()
-
+Screenshot 2024-10-19 at 16.10.35.png
 
 Hello,
 This is the final project of Nomad Coders' Javascript Challenge. (https://nomadcoders.co/javascript-for-beginners/lobby)
