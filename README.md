@@ -1,6 +1,7 @@
 
 ![Uploading Screenshot 2024-10-19 at 16.10.35.png…]()
 
+
 Hello,
 This is the final project of Nomad Coders' Javascript Challenge. (https://nomadcoders.co/javascript-for-beginners/lobby)
 The functions made from the project are listed below.
